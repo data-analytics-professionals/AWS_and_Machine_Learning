@@ -1,0 +1,30 @@
+#  The Iris Dataset has a long history, dating from 1936 when Edgar Anderson collected the data and published a paper describing it.
+#  Also in 1936, Ronald Fisher used linear discriminant analysis to analyze the data and build a model of it.  
+#  This link takes you to the Wikipedia page: https://en.wikipedia.org/wiki/Iris_flower_data_set
+
+#  The data consists of 150 data points, 50 each from a single flower.
+#  The three species are Iris-setosa, Iris-verscolor, Iris-virginica.
+
+#  There are four measurements from each flower:
+#    sepal-length
+#    sepal-width  
+#    petal-length
+#    petal-width
+
+#  The species of each flower has been identified by an expert botanist.
+#  This is an example of supervised learning.
+
+#  A common theme in machine learning is to begin with inspection of the data.
+#  To that end, this tutorial begins by showing the results of several metrics
+#  of the data and several visual presentations of its properties.
+
+#  Several visual libraries are illustrated.
+#  The first set of plots are made using the plot methods of matplotlib and pandas.
+#  Then matplotlib (using the inline option), and finally seaborn.
+
+#  As you will see in the charts displayed in the brief-Intro-python, one of the species is easily identified.  
+#  Since we can draw a straight line separating it from the others, 
+#  the data is linearly separable. 
+#  The other two have overlapping data distributions and are not
+#  linearly separable.
+
